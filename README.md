@@ -1,4 +1,5 @@
 # FreonR.github.io
-# REG.RU BLOG
+# PSU 2023-2034
 # Добро пожаловать!
-![Yeti 5] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.99px.ru%2Fwallpapers%2F25340%2F&psig=AOvVaw0DwFbcSLkADiarXDZ9Mbhl&ust=1704022373561000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDrs-aIt4MDFQAAAAAdAAAAABAE)
+![изображение](https://github.com/FreonR/FreonR.github.io/assets/155233311/566505d9-fd51-4011-8f33-fc49d6683f7f)
+
